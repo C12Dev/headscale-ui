@@ -13,9 +13,9 @@
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^4",
-		"@sveltejs/adapter-static": "^3",
-		"@sveltejs/kit": "^2",
+		"@sveltejs/adapter-auto": "^8",
+		"@sveltejs/adapter-static": "^4",
+		"@sveltejs/kit": "^3",
 		"@sveltejs/vite-plugin-svelte": "^3",
 		"@tailwindcss/typography": "^0",
 		"@vitejs/plugin-basic-ssl": "^1",
